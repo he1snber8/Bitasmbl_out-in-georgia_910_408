@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRTP5ExtWr4=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Bitasmbl_out-in-georgia_910_408/Bitasmbl_out-in-georgia_910_408/Backend/Backend.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
